@@ -1,4 +1,5 @@
-import fabrica_conexao
+from python_db_api import fabrica_conexao
+
 
 class ClienteRepositorio():
 

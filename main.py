@@ -1,4 +1,4 @@
-import cliente, cliente_repositorio
+from python_db_api import cliente_repositorio, cliente
 
 # try:
 #     db.begin()
